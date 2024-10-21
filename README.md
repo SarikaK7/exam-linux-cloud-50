@@ -1,1 +1,1 @@
-# exam-linux-cloud-50
+# exam-linux-50
